@@ -12,4 +12,5 @@ if(imc < 18.5)
                 console.log("Obesidade");
 else(console.log("Obesidade Grave"));
                     
+//terminado
   
